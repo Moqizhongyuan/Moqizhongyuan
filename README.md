@@ -1,2 +1,2 @@
 # Moqizhongyuan
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Moqizhongyuan)](https://github.com/anuraghazra/github-readme-stats)
+[![Moqizhongyuan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Moqizhongyuan&show_icons=true&theme=radical)](https://markdown-blog-bay.vercel.app/about)
