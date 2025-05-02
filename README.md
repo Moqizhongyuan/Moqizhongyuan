@@ -6,4 +6,4 @@
 
 I'm Little Yu, a junior front-end engineer with an insatiable curiosity. My dream is to become a full-stack engineer who understands both markets and marketing, exploring the uncharted world of mobile internet.
 
-## Find more about me on my personal blog: [https://markdown-blog-bay.vercel.app/about]
+## Find more about me on my personal blog: [Moqizhongyuan](https://markdown-blog-bay.vercel.app/about)
